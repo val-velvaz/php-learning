@@ -1,3 +1,4 @@
 <?php
-    echo "hello world";
+    // first comment
+    echo "hello world"; // output -> hello world%
 ?>
