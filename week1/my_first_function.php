@@ -6,3 +6,13 @@
 
     echo "<h1>Your lucky number is ${lucky_number}</h1>";
 ?>
+
+// my first function
+
+<?php
+    function makeHeaderGreeting($name) {
+        return "<h1>Hello, &{name}!</h1>";
+    }
+
+    echo makeHeaderGreeting("World");
+?>

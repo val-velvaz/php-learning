@@ -4,7 +4,7 @@
         <title>My First PHP Site</title>
     </head>
     <body>
-        <?php
+        <?php // not printing on the terminal
             echo "<h1>0h hi!</h1>";
         ?>
     </body>
